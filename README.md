@@ -1,16 +1,18 @@
-## Hi there 👋
+# 👋 Hi, I’m Lachlan!
 
-<!--
-**Lachlan-America/Lachlan-America** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a junior Software Engineer with a background in Mechatronics Engineering and a passion for creative and functional software systems.
 
-Here are some ideas to get you started:
+### 🚀 What I’m Working On
+- A real-time MERN chat app with session handling and JWT authentication
+- A modular trading strategy analyser using Backtrader that gives deeper insights
+- A habit tracker app in Swift to get deeper into mobile development and use it in my personal life
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🛠️ Current Tech I Work With
+**Languages:** Java, C, Python, JavaScript, HTML, CSS, Swift  
+**Web Dev:** React, Node.js, Express, MongoDB, Tailwind  
+**Tools:** ROS, Git, Linux CLI, Raspberry Pi, VS Code  
+
+### 🌱 Always Learning
+- Mobile development (iOS & Flutter)
+- System design and implementing/refining architectural design patterns
+- Building apps that are scalable, with clean codebases
