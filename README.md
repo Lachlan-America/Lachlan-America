@@ -16,3 +16,5 @@ I'm a junior Software Engineer with a background in Mechatronics Engineering and
 - Mobile development (iOS & Flutter)
 - System design and implementing/refining architectural design patterns
 - Building apps that are scalable, with clean codebases
+
+More: https://www.notion.so/2007b8cc848280c1802ce3f34b63227c?pvs=4
