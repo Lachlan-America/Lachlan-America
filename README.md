@@ -8,12 +8,13 @@ I'm a junior Software Engineer with a background in Mechatronics Engineering and
 - A habit tracker app in Swift to get deeper into mobile development and use it in my personal life
 
 ### 🛠️ Current Tech I Work With
-- **Languages:** Java, C, Python, JavaScript, HTML, CSS, Swift  
+- **Languages:** Java, C, Python, JavaScript, TypeScript, HTML, CSS, Swift  
 - **Web Dev:** React, Node.js, Express, MongoDB, Tailwind  
 - **Tools:** ROS, Git, Linux CLI, Raspberry Pi, VS Code  
 
 ### 🌱 Always Learning
 - Mobile development (iOS & Flutter)
+- Understanding CI/CD, AWS and other notably used technologies to help speed up my own projects
 - System design and implementing/refining architectural design patterns
 - Building apps that are scalable, with clean codebases
 
