@@ -1,20 +1,32 @@
-# 👋 Hi, I’m Lachlan!
+👋 Hey, I'm Lachlan America
 
-I'm a junior Software Engineer with a background in Mechatronics Engineering and a passion for creative and functional software systems.
+I'm an early-career Software Engineer with a Mechatronics background, passionate about building systems that are efficient, scalable, and user-focused.
+I enjoy working across the stack, from frontend interfaces to backend logic to system-level problem solving. I’m always improving how I approach clean architecture and maintainable code.
 
-### 🚀 What I’m Working On
-- A real-time MERN chat app with session handling and JWT authentication
-- A modular trading strategy analyser using Backtrader that gives deeper insights
-- A habit tracker app in Swift to get deeper into mobile development and use it in my personal life
+---
 
-### 🛠️ Current Tech I Work With
-- **Languages:** Java, C, Python, JavaScript, TypeScript, HTML, CSS, Swift  
-- **Web Dev:** React, Node.js, Express, MongoDB, Tailwind  
-- **Tools:** ROS, Git, Linux CLI, Raspberry Pi, VS Code  
+### 🚀 Current Projects
+- **MERN Real-Time Chat App** – With JWT auth, session handling, and scalable architecture
+- **Reflection Platform** - Powered with Next.js for protected routes and full-stack experience
+- **Trading Strategy Analyzer (Backtrader)** – Modular Python tool integrating PostgreSQL to explore backtested results
+- **iOS Habit Tracker (Swift)** – For personal use and deeper learning in mobile development
 
-### 🌱 Always Learning
-- Mobile development (iOS & Flutter)
-- Understanding CI/CD, AWS and other notably used technologies to help speed up my own projects
-- System design and implementing/refining architectural design patterns
-- Building apps that are scalable, with clean codebases
+---
 
+### 🛠 Tech Stack
+- **Languages** – JavaScript (TypeScript), Python, C++, Java, Swift  
+- **Web** – React, Node.js, Express, MongoDB, Tailwind  
+- **Tools** – Git, Linux CLI, VS Code, Raspberry Pi, ROS  
+- **Learning** – CI/CD (GitHub Actions), AWS (EC2, S3 basics), Flutter
+
+---
+
+### 🧠 Focus Areas
+- Building clean, modular, and testable codebases  
+- Designing for scale and performance in early-stage systems  
+- Communicating across teams and using feedback to improve fast  
+- Contributing to open-source and collaborative environments  
+
+---
+
+📬 Feel free to connect with me on [LinkedIn](https://linkedin.com/in/lachlanamerica) or explore my pinned repos!
