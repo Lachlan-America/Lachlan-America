@@ -1,32 +1,32 @@
-👋 Hey, I'm Lachlan America
+Hi, I'm Lachlan America.
 
-I'm an early-career Software Engineer with a Mechatronics background, passionate about building systems that are efficient, scalable, and user-focused.
-I enjoy working across the stack, from frontend interfaces to backend logic to system-level problem solving. I’m always improving how I approach clean architecture and maintainable code.
+I'm a software engineer with a Mechatronics background, currently focused on building reliable full-stack applications. My experience spans frontend design, backend systems, and scalable infrastructure — all rooted in writing clean, modular code and constantly refining my craft.
 
 ---
 
-### 🚀 Current Projects
-- **MERN Real-Time Chat App** – With JWT auth, session handling, and scalable architecture
-- **Reflection Platform** - Powered with Next.js for protected routes and full-stack experience
-- **Trading Strategy Analyzer (Backtrader)** – Modular Python tool integrating PostgreSQL to explore backtested results
-- **iOS Habit Tracker (Swift)** – For personal use and deeper learning in mobile development
+### 🚀 Recent Projects
+- **Next.js E-Commerce MVP** – Full-stack project with CI/CD, cart management, and reusable UI design
+- **MERN Real-Time Chat App** – Secure JWT-auth app with real-time messaging using Socket.IO, MongoDB for storage, and robust session handling
+- **Minecraft Minigames Plugin** – A 2019 Java Bukkit plugin restored and redesigned using OOP, event-driven architecture, and polymorphism for maintainability and scalability across multiple game types
+- **iOS Habit Tracker (Swift)** – Built for personal use to deepen my skills in mobile app development
 
 ---
 
 ### 🛠 Tech Stack
-- **Languages** – JavaScript (TypeScript), Python, C++, Java, Swift  
-- **Web** – React, Node.js, Express, MongoDB, Tailwind  
-- **Tools** – Git, Linux CLI, VS Code, Raspberry Pi, ROS  
-- **Learning** – CI/CD (GitHub Actions), AWS (EC2, S3 basics), Flutter
+- **Languages** – TypeScript, Python, Java, C++, Swift  
+- **Frontend** – React, Next.js, Tailwind  
+- **Backend** – Node.js, Express, MongoDB, PostgreSQL  
+- **Tools** – Git, GitHub Actions, Linux CLI  
+- **Platforms** –Raspberry Pi, ROS  
 
 ---
 
-### 🧠 Focus Areas
-- Building clean, modular, and testable codebases  
-- Designing for scale and performance in early-stage systems  
-- Communicating across teams and using feedback to improve fast  
-- Contributing to open-source and collaborative environments  
+### 🔍 Focus Areas
+- Writing testable, maintainable code in modular architectures  
+- Scaling early-stage projects with performance in mind  
+- Translating ideas into interactive, user-friendly apps  
+- Communicating clearly and growing through feedback  
 
 ---
 
-📬 Feel free to connect with me on [LinkedIn](https://linkedin.com/in/lachlanamerica) or explore my pinned repos!
+📬 Let’s connect on [LinkedIn](https://linkedin.com/in/lachlanamerica) or check out my pinned GitHub repos!
