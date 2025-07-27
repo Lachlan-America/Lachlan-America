@@ -17,7 +17,7 @@ I'm a software engineer with a Mechatronics background, currently focused on bui
 - **Frontend** – React, Next.js, Tailwind  
 - **Backend** – Node.js, Express, MongoDB, PostgreSQL  
 - **Tools** – Git, GitHub Actions, Linux CLI  
-- **Platforms** –Raspberry Pi, ROS  
+- **Platforms** – Raspberry Pi, ROS  
 
 ---
 
