@@ -13,8 +13,8 @@ I'm a software engineer with a Mechatronics background, currently focused on bui
 ---
 
 ### 🛠 Tech Stack
-- **Languages** – TypeScript, Python, Java, C++, Swift  
-- **Frontend** – React, Next.js, Tailwind  
+- **Languages** – TypeScript, JavaScript, Python, Java, C#, C++, Swift  
+- **Frontend** – React, Next.js, Tailwind, CSS
 - **Backend** – Node.js, Express, MongoDB, PostgreSQL  
 - **Tools** – Git, GitHub Actions, Linux CLI  
 - **Platforms** – Raspberry Pi, ROS  
