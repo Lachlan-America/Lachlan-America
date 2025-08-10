@@ -5,6 +5,7 @@ I'm a software engineer with a Mechatronics background, currently focused on bui
 ---
 
 ### 🚀 Recent Projects
+- **AI-Powered Todo List** – Full-stack project with a focus on unit tests, AI features, and security from draining my GPT tokens
 - **Next.js E-Commerce MVP** – Full-stack project with CI/CD, cart management, and reusable UI design
 - **MERN Real-Time Chat App** – Secure JWT-auth app with real-time messaging using Socket.IO, MongoDB for storage, and robust session handling
 - **Minecraft Minigames Plugin** – A 2019 Java Bukkit plugin restored and redesigned using OOP, event-driven architecture, and polymorphism for maintainability and scalability across multiple game types
